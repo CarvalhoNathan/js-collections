@@ -26,7 +26,7 @@ myMap.set('apple', 'fruit');
 myMap.get(apple);
 // "fruit"
 
-myMap.delete("apple"
+myMap.delete("apple");
 // true
 
 myMap.get("apple")
