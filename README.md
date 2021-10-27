@@ -2,5 +2,5 @@
 
 Objetivo do curso
 
-- Apresentar o objeto ```Map```
-- Apresentar o objeto ```Set```
+- Apresentar o objeto ```Map``` - (Aula 1)
+- Apresentar o objeto ```Set``` - (Aula 2)
