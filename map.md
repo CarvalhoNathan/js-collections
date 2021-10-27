@@ -35,7 +35,7 @@ myMap.get("apple")
 
 # Map vs Objeto
 
-- Maps podem ter chaves de qualquer tipo;
+- Maps podem ter chaves de qualquer tipo, já Objeto não;
 - Maps possuem a propriedade length;
 - Maps são mais fáceis de iterar;
 - Utilizado quando o valor de chaves é desconhecido;
