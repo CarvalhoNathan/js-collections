@@ -40,3 +40,7 @@ myMap.get("apple")
 - Maps são mais fáceis de iterar;
 - Utilizado quando o valor de chaves é desconhecido;
 - Os valores tem o mesmo tipo.
+
+<p align="center">
+  Readme by <a href="https://github.com/CarvalhoNathan"> Nathan Carvalho </a> <br>
+</p>
