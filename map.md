@@ -20,13 +20,13 @@ const myMap = new Map()
 ```js
 const myMap = new Map()
 
-myMap.set('apple', 'fruit');
+myMap.set('apple', 'fruit'); // Adiciona
 // Map(1) {"apple" => "fruit"}
 
-myMap.get(apple);
+myMap.get(apple); // Verifica
 // "fruit"
 
-myMap.delete("apple");
+myMap.delete("apple"); // Deleta
 // true
 
 myMap.get("apple")
