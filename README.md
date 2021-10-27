@@ -1,6 +1,4 @@
-## Minhas anotações do curso sobre Coleções da DIO ([Digital Innovation One](https://digitalinnovation.one/)):
+## Minhas anotações do curso sobre ```Coleções``` da DIO ([Digital Innovation One](https://digitalinnovation.one/)):
 
-Objetivo do curso
-
-- Apresentar o objeto ```Map``` - (Aula 1)
-- Apresentar o objeto ```Set``` - (Aula 2)
+- [Aula 1](https://github.com/CarvalhoNathan/js-collections/blob/main/map.md) - ```Map```
+- [Aula 2](https://github.com/CarvalhoNathan/js-collections/blob/main/set.md) - ```Set```
