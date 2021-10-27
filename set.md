@@ -45,3 +45,7 @@ mySet.delete(5); // Deletar
 - Possui valores únicos;
 - Em vez da propriedade length, consulta-se o número de registros pela propriedade size;
 - Não possui os métodos map, filter, reduce etc.
+
+<p align="center">
+  Readme by <a href="https://github.com/CarvalhoNathan"> Nathan Carvalho </a> <br>
+</p>
